@@ -66,8 +66,8 @@ Underprediction and overprediction MAE were also calculated to understand bias.
 
 ## 👨‍💻 Author
 - **Subham Dey**
-- GitHub: [your GitHub link]
-- LinkedIn: [your LinkedIn profile]
+- GitHub: [https://github.com/Subhamdey2323]
+- LinkedIn: [www.linkedin.com/in/subhamdey]
 
 ---
 
